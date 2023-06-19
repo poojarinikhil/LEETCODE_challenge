@@ -28,7 +28,7 @@ public class Maximum_population {
         int [][] logs = {{1950,1961},{1960,1971},{1970,1981},{1975,1985},{1978,1988}};
         System.out.println(maximumPopulation(logs));
     }
-//    I tried but failed
+//    I tried but failedj
 //    public static int maximumPopulation(int[][] logs) {
 //        int maxpopulation =0;
 //        int pointer = 0;
