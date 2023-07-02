@@ -20,7 +20,7 @@ public class spiral_matrix_III {
     public static void main(String[] args) {
         System.out.println(Arrays.deepToString(spiralMatrixIII(4, 2, 0, 0)));
     }
-    public int[][] spiralMatrixIII(int R, int C, int x, int y) {
+    public static int[][] spiralMatrixIII(int R, int C, int x, int y) {
         int[][] res = new int[R * C][2];
         int dx = 0, dy = 1, n = 0, tmp;
         for (int j = 0; j < R * C; ++n) {
