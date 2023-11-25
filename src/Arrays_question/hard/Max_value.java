@@ -17,7 +17,7 @@
 //        Input: points = [[0,0],[3,0],[9,2]], k = 3
 //        Output: 3
 //        Explanation: Only the first two points have an absolute difference of 3 or less in the x-values, and give the value of 0 + 0 + |0 - 3| = 3.
-package Arrays.hard;
+package Arrays_question.hard;
 
 public class Max_value {
     public static void main(String[] args) {

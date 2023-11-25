@@ -15,7 +15,7 @@
 //        Output: false
 //        Explanation: You will always arrive at index 3 no matter what. Its maximum jump length is 0, which makes it impossible to reach the last index.
 //--------------------------------------------------------------------
-package Arrays.medium;
+package Arrays_question.medium;
 
 public class Jump_game {
     public boolean canJump(int[] nums) {
