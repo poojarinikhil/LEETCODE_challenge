@@ -18,7 +18,7 @@
 //        Input: nums = [-1,1,0,-3,3]
 //        Output: [0,0,9,0,0]
 
-package Arrays.medium;
+package Arrays_question.medium;
 
 import java.util.Arrays;
 
