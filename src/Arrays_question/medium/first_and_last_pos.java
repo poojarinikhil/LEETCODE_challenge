@@ -1,4 +1,4 @@
-package Arrays.medium;
+package Arrays_question.medium;
 
 import java.util.Arrays;
 
